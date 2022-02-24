@@ -83,6 +83,7 @@ p{
     background-repeat: none;
     margin-top: -60px;
     border-top-right-radius: 5px;
+    opacity: 80%;
     
     
 }
@@ -92,7 +93,7 @@ p{
     height: 495px;
     position: relative;
     bottom: 455px;
-    opacity: 10%;
+    
    
 }
 
@@ -114,5 +115,15 @@ p{
    font-size: 72px;
 }
 
+
+.span-style{
+    position: relative;
+    bottom: 10px;
+   
+}
+
+.llinks{
+    text-decoration: none;
+}
 
 

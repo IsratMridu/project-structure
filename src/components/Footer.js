@@ -20,8 +20,8 @@ const Footer = () => {
                     <div>
                     <img src={insiderImage} alt='insider-bg-img' />
                     <div className='inner-div-style'>
-                        <p>READY TO DO THIS</p>
-                        <h1>Let's get <br/> to work</h1>
+                        <p className='text-white'>READY TO DO THIS</p>
+                        <h1 className='text-white'>Let's get <br/> to work</h1>
                         
                     </div>
                     <button className='btn btn-outline-warning px-5 py-3'>Contact Us</button>
