@@ -1,11 +1,12 @@
-import Header from "./components/Header";
-import AppRoute from "./route";
+
+
+import AppRoute from './route';
 
 function App() {
   return (
-    <div>
-      <Header />
-      <AppRoute />
+    <div className='full-bg-style'>
+    
+    <AppRoute />
     </div>
   );
 }
